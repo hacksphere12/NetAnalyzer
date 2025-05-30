@@ -23,9 +23,9 @@ NetAnalyzer is a command-line tool written in Python for performing common netwo
 
 1.  **Clone the repository (or download the files):**
     git clone <https://github.com/hacksphere12/NetAnalyzer.git>
-    cd NetAnalyzer
+cd NetAnalyzer
 
-2.  **Create a virtual environment (recommended):**
+3.  **Create a virtual environment (recommended):**
 
     python -m venv venv
     # On Windows
@@ -33,7 +33,7 @@ NetAnalyzer is a command-line tool written in Python for performing common netwo
     # On macOS/Linux
     source venv/bin/activate
 
-3.  **Install dependencies:**
+4.  **Install dependencies:**
 
         pip install -r requirements.txt
 
