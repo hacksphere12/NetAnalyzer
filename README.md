@@ -38,6 +38,7 @@ NetAnalyzer is a command-line tool written in Python for performing common netwo
 4.  **Install dependencies:**
 
         pip install -r requirements.txt
+        pkg install traceroute
 
 
 ## Usage
