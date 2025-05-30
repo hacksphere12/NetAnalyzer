@@ -43,4 +43,4 @@ cd NetAnalyzer
 
 The tool uses a command-line interface. You can get help by running:
 
-    python net_analyzer.py -h
+    python NetAnalyzer.py -h
