@@ -22,6 +22,7 @@ NetAnalyzer is a command-line tool written in Python for performing common netwo
 ## Installation
 
 1.  **Clone the repository (or download the files):**
+
     git clone <https://github.com/hacksphere12/NetAnalyzer.git>
 
     cd NetAnalyzer
